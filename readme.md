@@ -1,4 +1,4 @@
-<h2 align="center"> 🎓 module #2. REST API Basics</h2>
+<h2 align="center"> 🎓 MJC school : EPAM Systems<br/>Minsk, Belarus (Минск, Беларусь)<br/>module #2. REST API Basics</h2>
 
 <h3>♟ Business requirements</h3>
 
